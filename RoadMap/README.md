@@ -7,6 +7,8 @@ This repo will have folders day-wise and topic-wise like **Linux, Git, Docker, K
 
 ## 📅 Roadmap & Daily Plan
 
+Note: Learn GoLang on the go.
+
 ### ✅ Phase 1: Foundations (Day 1–20)
 | Days       | Topic              | Focus                                |
 |------------|--------------------|--------------------------------------|
