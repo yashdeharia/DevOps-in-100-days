@@ -38,3 +38,5 @@ groupadd groupname
 gpasswd -a username groupname
 gpasswd -m user1,user2 groupname
 groupdel groupname
+chmod 400 /path/to/key.pem
+ssh -i /path/to/key.pem ubuntu@my-ec2-public-dns
