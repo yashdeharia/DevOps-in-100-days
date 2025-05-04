@@ -1,7 +1,7 @@
-# 🚀 Day 5 of 100 Days of DevOps
+# 🚀 Day 6 of 100 Days of DevOps
 
 ## 📅 Date:
-April 16, 2025
+May 4, 2025
 
 ## 📘 Topics Covered:
 - Command History
